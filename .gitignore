@@ -1,0 +1,21 @@
+# node modules
+node_modules
+
+# builded sources
+build
+dist
+
+# coverage reports
+coverage
+
+# IntelliJ stuffs
+.idea/
+
+# vscode
+.vscode/
+
+# parcel cache
+.cache
+
+# lock files
+*.lock
